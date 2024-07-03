@@ -30,7 +30,7 @@ I'm a 22-year-old software engineering student with a passion for web design and
 
 ## 📈 GitHub Stats
 
-![Alferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Alferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alferid69&show_icons=true&theme=radical)
 
 
 ## 🌐 Connect with Me
