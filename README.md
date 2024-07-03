@@ -28,11 +28,6 @@ I'm a 22-year-old software engineering student with a passion for web design and
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Alferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alferid69&show_icons=true&theme=radical)
-
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alferid-hassen-b44623317/)
