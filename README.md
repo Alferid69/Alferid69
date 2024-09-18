@@ -29,7 +29,9 @@ I'm a 22-year-old software engineering student with a passion for web design and
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![NextAuth](https://img.shields.io/badge/-NextAuth.js-000000?style=flat&logo=next.js&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth.js-000000?style=flat&logo=next.js&logoColor=white).
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### Tools
 
@@ -37,7 +39,8 @@ I'm a 22-year-old software engineering student with a passion for web design and
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Acentri UI](https://img.shields.io/badge/-Acentri%20UI-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Acentri UI](https://img.shields.io/badge/-Acentri%20UI-38B2AC?style=flat&logo=tailwindcss&logoColor=white).
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ## 🌐 Connect with Me
 
