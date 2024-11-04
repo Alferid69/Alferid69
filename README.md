@@ -6,8 +6,8 @@
 
 I'm a 22-year-old software engineering student with a passion for web design and application development.
 
-- 👀 I’m interested in web development and application development.
-- 🌱 I’m currently learning the React framework to enhance my web development skills.
+- 👀 I’m interested in web development and mobile application development.
+- 🌱 I’m currently learning the Flutter framework to improve my application development skill.
 - 📫 You can reach me via [Telegram](https://t.me/ferid69) and [Instagram](https://www.instagram.com/feridh69/).
 
 ## 🛠️ Skills
