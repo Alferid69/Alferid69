@@ -47,9 +47,9 @@ I'm a 22-year-old software engineering student with a passion for web design and
 
 ## 📈 GitHub Stats
 
-![Alferid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferid69&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferid69&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ferid69&theme=radical&hide_border=true)
+![Alferid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alferid69&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alferid69&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alferid69&theme=radical&hide_border=true)
 
 ## 🏆 Achievements
 
@@ -62,7 +62,7 @@ I'm a 22-year-old software engineering student with a passion for web design and
 
 ## 🐍 Contribution Graph
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ferid69/ferid69/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Alferid69/Alferid69/output/github-contribution-grid-snake.svg)
 
 > Snake animation requires GitHub Actions to be set up  
 > [Set up the snake here](https://github.com/Platane/snk)
