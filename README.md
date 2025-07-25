@@ -50,6 +50,7 @@ I'm a 22-year-old software engineering student with a passion for web design and
 ![Alferid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alferid69&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alferid69&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alferid69&theme=radical&hide_border=true)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Alferid69/snk/output/github-contribution-grid-snake.svg)
 
 ## 🏆 Achievements
 
