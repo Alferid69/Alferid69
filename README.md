@@ -56,7 +56,7 @@ I'm a 22-year-old software engineering student with a passion for web design and
 
 - 🗓️ 3+ years coding experience
 - 🌍 Built apps used in real projects
-- 🔥 1,000+ commits made
+- 🔥 500+ commits made
 - 💡 Built and contributed to several personal projects
 - 🧠 Self-taught frontend/backend stack
 - 🧪 Open to collaboration on innovative ideas
