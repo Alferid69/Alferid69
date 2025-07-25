@@ -60,13 +60,6 @@ I'm a 22-year-old software engineering student with a passion for web design and
 - 🧠 Self-taught frontend/backend stack
 - 🧪 Open to collaboration on innovative ideas
 
-## 🐍 Contribution Graph
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Alferid69/Alferid69/output/github-contribution-grid-snake.svg)
-
-> Snake animation requires GitHub Actions to be set up  
-> [Set up the snake here](https://github.com/Platane/snk)
-
 ## 👁️ Visitor Counter
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ferid69&style=flat-square&color=blue)
