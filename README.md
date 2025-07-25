@@ -45,10 +45,35 @@ I'm a 22-year-old software engineering student with a passion for web design and
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 
+## 📈 GitHub Stats
+
+![Alferid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferid69&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferid69&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ferid69&theme=radical&hide_border=true)
+
+## 🏆 Achievements
+
+- 🗓️ 3+ years coding experience
+- 🌍 Built apps used in real projects
+- 🔥 1,000+ commits made
+- 💡 Built and contributed to several personal projects
+- 🧠 Self-taught frontend/backend stack
+- 🧪 Open to collaboration on innovative ideas
+
+## 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ferid69/ferid69/output/github-contribution-grid-snake.svg)
+
+> Snake animation requires GitHub Actions to be set up  
+> [Set up the snake here](https://github.com/Platane/snk)
+
+## 👁️ Visitor Counter
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ferid69&style=flat-square&color=blue)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alferid-hassen-b44623317/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ItsNotorious69)  
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ferid69)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/feridh69/)
-
